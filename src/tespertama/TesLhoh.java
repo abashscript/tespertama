@@ -6,7 +6,7 @@ public class TesLhoh {
 		// ini tes coba 1
 
 		// ini tambahannya
-		public String nama;
+		
 		
 	}
 
